@@ -15,5 +15,3 @@
 # Sayı dizimiz değişmediğinden, sadece bölmelere ayırdığımızdan ve her kademede taradığımız eleman sayısı aynı olduğundan
 # O(n) olur. Bu O(n) işlemini de 2^x = n'den logn = x yani logn kere yaparız. Bu nedenle Big-O gösterimi: O(nlogn)
 # şeklindedir
-
-[Patika.Dev](www.patika.dev)
